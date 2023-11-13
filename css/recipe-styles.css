@@ -1,2 +1,45 @@
 /*font-family: 'Alumni Sans Inline One', sans-serif;
 font-family: 'Amarante', serif; */
+html{
+    box-sizing:border-box;
+    font-family:Alumni Sans Inline One',sans-serif;
+    font-size:1.25rem;
+    line: height 125%;
+    color:#50504f;
+}
+
+nav {
+    background-color:#c98226;
+    text-align:center;
+}
+ nav li{
+    diplay:inline;
+ }
+nav a {
+    paddding:20px;
+    display:inline-block;
+    color:white;
+    text-decoration: none;
+    text-transform:uppercase;
+    letter-spacing: 1px;
+  }
+  nav a:link{color:rgb(226, 128, 43)}
+  nav a:visited{color:red}
+  nav a:hover{color:#1bbb66;}
+  nav a:active{color:black}
+  nav a:focus{color:#bb1b47;}
+  
+  main{
+    width:80%;
+    margin: 0 auto;
+  }
+  }
+
+h1, h2, h3{
+    color:black;
+    font-family: Amarante', serif;  
+}
+
+
+
+

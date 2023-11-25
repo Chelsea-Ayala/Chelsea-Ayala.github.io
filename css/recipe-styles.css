@@ -183,3 +183,50 @@ footer p{
   	width:90%;
 	}
 }
+@media (max-width:810px){
+
+  html{
+      line-height: 130%;
+      }
+    
+    nav a {
+      padding: 15px;
+      font-size:16px;
+      letter-spacing:.5px;
+      }
+    nav ul
+    
+      {padding-left: 0;}
+  
+    main{
+      width: 85%;
+      margin:0 auto;
+      }
+    h1{
+  
+      font-size:2rem;
+        
+    }
+    
+    img{
+      float:left;
+      max-width:20%;
+      margin-left:10%;
+    }
+  
+    .rate{
+      font-size:1rem;}
+  
+    details,.ingredients,.instructions,nutrition{
+    width:55%;
+    }
+  
+   
+  .colm1, .colm2, .colm3{
+  
+      
+      width:50%;
+    }
+  
+  
+  }

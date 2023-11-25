@@ -152,7 +152,7 @@ footer p{
 	h1{
 
 		font-size:1rem;
-		text-shawdow:none;
+		text-shadow:none;
 	}
 	h2 {
 		font-size:1.2rem;
@@ -167,8 +167,8 @@ footer p{
 		font-size:.9rem;}
 
 	details,.ingredients,.instructions,nutrition{
-	wdth:90%;
-	foat:none
+	width:90%;
+	float:none
 	}
 
   blockquote{
@@ -179,7 +179,7 @@ footer p{
   .colm1, .colm2, .colm3{
 
  	display: block;
-  	loat:none;
+  	float:none;
   	width:90%;
 	}
 }
